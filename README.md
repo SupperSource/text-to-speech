@@ -4,7 +4,7 @@
 
 This is an application in which user enters text and the computer reads it out for us.
 
-<img src="./preview.gif">
+<img src="./demogif.gif">
 
 # Preview
 
