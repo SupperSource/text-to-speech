@@ -16,10 +16,10 @@ body {
 
 .form {
   width: 50%;
-  position: relative;
+  position: absolute;
   height: 50px;
   overflow: hidden;
-  top: 0px;
+  top: 40%;
 }
 
 .form input {
