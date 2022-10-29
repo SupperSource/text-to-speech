@@ -1,8 +1,8 @@
-# text-to-speach
+# Text to speech
 
-## what is this?
+## Introduction
 
-This is an application in which user enters text and the computer reads it out for us.
+Program to convert text into speach.
 
 <img src="./demogif.gif">
 
